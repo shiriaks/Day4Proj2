@@ -1,0 +1,28 @@
+h2{
+    color: rgb(22, 110, 110);
+    background-color: blanchedalmond;
+}
+
+strong,i{
+    font-size: xx-large;
+    color: blueviolet;
+}
+p{
+    background-color: darkcyan;
+
+}
+table{
+    text-align: center;
+    border-color: blueviolet;
+    border: 10px;
+    margin: 10px 10px;
+}
+th,.odd{
+    background-color: aquamarine;
+    height: 50px;
+    color: darkred;
+}
+#head{
+    background-color: gray;
+}
+
